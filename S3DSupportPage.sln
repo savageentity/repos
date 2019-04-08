@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3DSupportPage", "S3DSupport\S3DSupportPage.csproj", "{809B3C4A-EC05-43BB-A432-68A1CE99B773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809B3C4A-EC05-43BB-A432-68A1CE99B773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809B3C4A-EC05-43BB-A432-68A1CE99B773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809B3C4A-EC05-43BB-A432-68A1CE99B773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809B3C4A-EC05-43BB-A432-68A1CE99B773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ABEAF2F-97F0-4EFF-987F-A5F947667BC5}
+	EndGlobalSection
+EndGlobal
