@@ -1,0 +1,6 @@
+C:\Users\nbyount\Source\repos\SetHosts\SetHosts\bin\Debug\SetHosts.exe.config
+C:\Users\nbyount\Source\repos\SetHosts\SetHosts\bin\Debug\SetHosts.exe
+C:\Users\nbyount\Source\repos\SetHosts\SetHosts\bin\Debug\SetHosts.pdb
+C:\Users\nbyount\Source\repos\SetHosts\SetHosts\obj\Debug\SetHosts.csproj.CoreCompileInputs.cache
+C:\Users\nbyount\Source\repos\SetHosts\SetHosts\obj\Debug\SetHosts.exe
+C:\Users\nbyount\Source\repos\SetHosts\SetHosts\obj\Debug\SetHosts.pdb

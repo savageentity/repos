@@ -1,0 +1,15 @@
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\PartClass_Directory_Creator.exe.config
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\PartClass_Directory_Creator.exe
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\PartClass_Directory_Creator.pdb
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\Workbook_Directory_Creator.csprojAssemblyReference.cache
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\PartClass_Directory_Creator.Form1.resources
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\PartClass_Directory_Creator.Properties.Resources.resources
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\Workbook_Directory_Creator.csproj.GenerateResource.cache
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\Workbook_Directory_Creator.csproj.CoreCompileInputs.cache
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\Workbook_Directory_Creator.csproj.CopyComplete
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\PartClass_Directory_Creator.exe
+C:\Users\nbyount\Source\repos\Workbook_Directory_Creator\Workbook_Directory_Creator\obj\Debug\PartClass_Directory_Creator.pdb
