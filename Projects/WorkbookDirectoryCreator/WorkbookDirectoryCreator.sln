@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workbook_Directory_Creator", "Workbook_Directory_Creator\Workbook_Directory_Creator.csproj", "{1AFB478F-61A6-40AB-B383-CBA436A7A80F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkbookDirectoryCreator", "WorkbookDirectoryCreator\WorkbookDirectoryCreator.csproj", "{1AFB478F-61A6-40AB-B383-CBA436A7A80F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
