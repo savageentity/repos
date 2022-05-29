@@ -1,0 +1,2 @@
+gcc T1O1.c -o T202 `pkg-config --cflags --libs gstreamer-1.0 cairo`
+
